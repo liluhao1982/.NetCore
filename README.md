@@ -1,2 +1,2 @@
 # .NetCore
-Study history for .net core
+Study history for .net core 
